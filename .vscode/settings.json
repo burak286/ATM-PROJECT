@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "cstring": "cpp",
+        "clocale": "cpp",
+        "vector": "cpp",
+        "iostream": "cpp",
+        "xstring": "cpp",
+        "algorithm": "cpp",
+        "iomanip": "cpp"
+    }
+}
